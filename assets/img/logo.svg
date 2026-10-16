@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="140 140 350 330" role="img" aria-label="Анисовый букет">
+  <g fill="none" stroke="#6B9142" stroke-width="36">
+    <circle cx="240" cy="340" r="82"/>
+    <path d="M340 450V300a57.5 57.5 0 0 1 115 0v150"/>
+  </g>
+  <g transform="rotate(32 372 186)">
+    <path d="M372 150c20 14 22 50 0 72c-22-22-20-58 0-72z" fill="#6B9142"/>
+    <path d="M372 160v58M372 178l10-9M372 192l11-9M372 206l10-8M372 186l-9-8M372 200l-9-8" stroke="#fff" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
