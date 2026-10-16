@@ -94,7 +94,7 @@ em { font-style: italic; color: var(--berry); }
 .hero__inner { display: grid; grid-template-columns: 1.05fr 1fr; gap: 56px; align-items: center; }
 .hero__lead { font-size: 1.12rem; color: var(--muted); max-width: 520px; margin: 24px 0 32px; }
 .hero__actions { display: flex; flex-wrap: wrap; gap: 12px; }
-.hero__facts { list-style: none; padding: 0; margin: 40px 0 0; display: flex; gap: 40px; }
+.hero__facts { list-style: none; padding: 0; margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 16px 40px; }
 .hero__facts li { display: flex; flex-direction: column; }
 .hero__facts strong { font-family: var(--serif); font-size: 1.45rem; color: var(--green-dark); }
 .hero__facts span { font-size: .9rem; color: var(--muted); }
